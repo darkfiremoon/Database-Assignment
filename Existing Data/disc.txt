@@ -1,0 +1,2 @@
+PURCHASE DISCOUT              PURCHASE            10APPLICABLE TO ONLY WALK IN PURCHASE               D001
+EARLY BIRD                    EARLYBIRD            5APPLICABLE TO ONLY EARLY BIRDS                    D002

@@ -1,0 +1,1134 @@
+
+
+ LOG file opened at 04/08/15 12:23:44
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+
+  Column Transformations
+
+
+ LOG file opened at 04/08/15 12:23:45
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+
+  Column Transformations
+
+
+ LOG file opened at 04/08/15 12:53:03
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/08/15 13:14:40
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/08/15 13:16:28
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/08/15 13:16:42
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/08/15 14:56:07
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/08/15 15:02:02
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/08/15 15:05:19
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/08/15 15:08:02
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/08/15 16:09:43
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+  Column Transformations
+
+
+ LOG file opened at 04/08/15 16:09:44
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+  Column Transformations
+
+
+ LOG file opened at 04/08/15 16:22:05
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/08/15 16:49:06
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/08/15 16:50:02
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/10/15 14:48:59
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/10/15 22:37:54
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 00:05:59
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 00:07:11
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 00:10:31
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 00:11:08
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 00:11:58
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 00:15:32
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 00:15:51
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 00:15:54
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 00:18:47
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 00:43:37
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 00:46:00
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 01:29:56
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 01:31:20
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 01:37:51
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 01:38:35
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 14:51:37
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/11/15 14:51:38
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (31, 80)
+      Trim whitespace from right
+    AUTHOR                          CHAR (30)
+      Record position (81, 110)
+      Trim whitespace from right
+    PUBLISHER                       CHAR (30)
+      Record position (111, 140)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (141, 145)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (146, 147)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (148, 151)
+      Trim whitespace from right

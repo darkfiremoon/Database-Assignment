@@ -1,0 +1,19 @@
+
+
+ LOG file opened at 04/10/15 22:37:51
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table TEST
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    COLUMN1                         CHAR (5)
+      Record position (1, 5)
+      Trim whitespace from right
+    COLUMN2                         CHAR (5)
+      Record position (6, 10)
+      Trim whitespace from right
