@@ -1,7 +1,7 @@
 create or replace PROCEDURE P_UPDATE_CUST (
 		IN_TYPE IN VARCHAR2,
-                IN_CD IN T_MT_CUSTOMER.CD%TYPE,
-                IN_VALUE IN VARCHAR2
+        IN_VALUE IN VARCHAR2,
+        IN_CD IN T_MT_CUSTOMER.CD%TYPE
 )
 IS
 update_sql varchar2(225);
