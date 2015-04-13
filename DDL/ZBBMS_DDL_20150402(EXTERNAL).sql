@@ -1,6 +1,6 @@
 --zbbms@20140402 create directory -START
-create or replace directory ext_tab_dir as 'C:\Users\LWL\Desktop\Database\Database Assignment\Existing Data';
-create or replace directory ext_log_dir as 'C:\Users\LWL\Desktop\Database\Database Assignment\Existing Data\Log Files';
+create or replace directory ext_tab_dir as 'C:\Users\cheewei\Desktop\Database Assignment\Database-Assignment\Existing Data';
+create or replace directory ext_log_dir as 'C:\Users\cheewei\Desktop\Database Assignment\Database-Assignment\Existing Data\Log Files';
 --zbbms@20140402 create directory -END
 
 
