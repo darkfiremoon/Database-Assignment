@@ -1,1 +1,9 @@
 Pen Type Stationery           SP01
+BookType Stationery           SP02
+File     Stationery           SP03
+Ink      Stationery           SP04
+Eraser   Stationery           SP05
+Ruler    Stationery           SP06
+Folder   Stationery           SP08
+Calculat Stationery           SP09
+Pencil   Stationery			  SP10

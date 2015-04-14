@@ -1,1 +1,11 @@
-Ali Baba Supplies             1228, Jalan Api, 31900 Kampar, Perak                                            SP01SU01                            
+Ali Baba Supplies             1228, Jalan Api, 31900 Kampar, Perak                                            SP01SU01   
+GG Supplies 		          1245, Jalan Mega,21400 Kampar, Perak											  SP02SU02
+Tell Me Supplies 			  1956, Jalan Me, 21590 Tapah,Perak												  SP03SU03
+Thinking Supplies 			  0594, Jalan Raya,35900 Kampar,Perak											  SP04SU04
+Kampar Supplies 			  0123, Jalan Kampar,43950 Kampar,Perak 										  SP05SU05
+Happy Supplies				  4938, Jalan Gembira,92130 Sibu,Sarawak 										  SP06SU06
+No Way Supplies 		      9201, Jalan Sana,21240 TK,Perak 	    										  SP07SU07
+Music Supplies				  9548, Jalan mee,30210 Kampar,Perak										      SP08SU08
+Destiny Supplies			  2345, Jalan Destiny,43900 Kampar,Perak										  SP09SU09
+GXT Supplies				  2205, Jalan GXT,45940 Kampar,Perak											  SP10SU10
+                         

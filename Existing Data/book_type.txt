@@ -1,1 +1,10 @@
 Science Fiction               BT01
+Romance                       BT02
+Horror                        BT03
+FairyTale Story               BT04
+Comic  						  BT05
+Action and adventures         BT06
+Travel                        BT07
+Mystery      				  BT08
+Drama						  BT09
+Children's                    BT10

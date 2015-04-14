@@ -1,4 +1,4 @@
 Manager             R001  
-Customer Service    R002
+Cust Service        R002
 Supervisor          R003
 Part-Timer          R004

@@ -1,2 +1,5 @@
-PURCHASE DISCOUT              PURCHASE            10APPLICABLE TO ONLY WALK IN PURCHASE               D001
-EARLY BIRD                    EARLYBIRD            5APPLICABLE TO ONLY EARLY BIRDS                    D002
+PURCHASE DISCOUNT             PURCHASE            10APPLICABLE TO ONLY WALK IN PURCHASE               D001
+EARLY BIRD                    EARLYBIRD           5APPLICABLE TO ONLY EARLY BIRDS                     D002
+VIP DISCOUNT                  VIP                 10APPLICABLE TO ONLY VIP CUSTOMER                   D003
+VOUCHER DISCOUNT              VOUCHER             100APPLICABLE TO ONLY GOT VOUCHER                   D004
+GOLDEN HOUR DISCOUNT          GOLDEN              20APPLICABLE TO ONLY WALK IN GOLDEN HOUR            D005
