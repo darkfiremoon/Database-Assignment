@@ -1,30 +1,30 @@
 Teh Kian Chong      2802199435,jalan hulubalang 28, taman sentosa, klang      0162031910darkfiremoon28@gmail.com      1001042015darkfire  darkfire281111
-Yeap Chee Wei		2011199444,jalan perak 29     , taman jaya   , selangor   0159235853cheewei@hotmail.com           1202042015cheewei   cheewei150524
-Low Wei Liang       2812199465,jalan maju 21      , taman maju   , perak      0125896438liang@hotmail.com             10110420141liang    liang242194
-Chew Jian Hong      2908199422,jalan sini 23      , taman sana   , johor      0114915951gary@gmail.com                1220092014gary      gary343231
-Chong Zan Wei       2009199484,jalan mana 40      , taman itu    , klang      0125932598czw@hotmail.com               1330032015czw       czw249530
-Loh Kien Joe        2207199238,jalan makan 34     , taman api    , penang     0105486486kj@hotmail.com                1403062014kj        kj465643
-Neilson             3001199030,jalan emo 20       , taman emo    , seremban   0125939285neilson@hotmail.com           1205012015neilson   neilson340353
-Daren               2306199435,jalan keras 23     , taman keras  , kl         0135846934daren@yahoo.com               1209092013daren     daren142039
-Gerald              3112199421,jalan jaya 21      , taman cantik , kedah      0114935439gerald@hotmail.com            1203062014gerald    gerald305469
-Pb                  2102199423,jalan fasa 24      , taman fasa   , selangor   0129412819pb@hotmail.com				  1204042014pb        pb248121
-Kailum 			    2104199400,jalan haji 12      , taman haji   , kelantan   0124912484kailum@yahoo.com              1207052013kailum    kailum221312
-Eelin 				2503199287,jalan ghany 42     , taman ghany  , perak      0124812481eelin@gmail.com  			  1212122015eelin     eelin312300
-Jimmy   			2305199402,jalan station 21   , taman station, johor      0195843936jimmy@hotmail.com             1201012014jimmy     jimmy240858
-Ahbii				2609199409,jalan bagus 56     , taman bagus  , rawang     0164343532ahbii@gmail.com               1203042015ahbii     ahbi634435
-James 				1108199421,jalan bola 34      , taman bola   , kl         0174643535james@hotmail.com             1104032014james     james355789
-Sam					0008199364,jalan cinta 32     , taman cinta  , penang     0192389238sam@gmail.com 				  1206112014sam       sam343245
-Alex                2411199676,jalan tak 86       , taman tak    , kuantan    0184375438alex@gmail.com				  1209042013alex      alex349331
-Yoona               2312199643,jalan sempat 54    , taman sempat , kl         0149584937yoona@hotmail.com			  1204122015yoona     yoona439491
-Sunny               2409199354,jalan larang 21    , taman larang , johor      0139812498sunny@hotmail.com      		  1205112015sunny 	  sunny394281
-Tiffany             2403199542,jalan mesti 30     , taman mesti  , kl         0125892385tiffany@gmail.com             1213022015tiffany   tiffany486899
-Jacqli              2301199390,jalan dell 34      , taman dell   , kelantan   0175823578jacqli@yahoo.com              1208022014jacqli    jacqli123055
-Stark               2105199534,jalan asus 67      , taman asus   , penang     0149854395stark@hotmail.com             1107042014stark     stark124011
-Jane                1505199509,jalan lapar 60     , taman lapar  , kedah      0124871824jane@gmail.com   			  1224092015jane      jane212949
-Rinny 				2407199033,jalan main 34      , taman main   , selangor   0135945834rinny@hotmail.com             1213022014rinny     rinny343905
-Phoenix 			2406199258,jalan tidur 70     , taman tidur  , kl         0158463882phoenix@hotmail.com           1230112013phoenix   phoenix350460
+Yeap Chee Wei       2011199444,jalan perak 29     , taman jaya   , selangor   0159235853cheewei@hotmail.com           1202042015cheewei   cheewei15 0524
+Low Wei Liang       2812199465,jalan maju 21      , taman maju   , perak      0125896438liang@hotmail.com             10110420141liang    liang24   2194
+Chew Jian Hong      2908199422,jalan sini 23      , taman sana   , johor      0114915951gary@gmail.com                1220092014gary      gary34    3231
+Chong Zan Wei       2009199484,jalan mana 40      , taman itu    , klang      0125932598czw@hotmail.com               1330032015czw       czw24     9530
+Loh Kien Joe        2207199238,jalan makan 34     , taman api    , penang     0105486486kj@hotmail.com                1403062014kj        kj46      5643
+Neilson             3001199030,jalan emo 20       , taman emo    , seremban   0125939285neilson@hotmail.com           1205012015neilson   neilson34 0353
+Daren               2306199435,jalan keras 23     , taman keras  , kl         0135846934daren@yahoo.com               1209092013daren     daren14   2039
+Gerald              3112199421,jalan jaya 21      , taman cantik , kedah      0114935439gerald@hotmail.com            1203062014gerald    gerald30  5469
+Pb                  2102199423,jalan fasa 24      , taman fasa   , selangor   0129412819pb@hotmail.com                1204042014pb        pb24      8121
+Kailum              2104199400,jalan haji 12      , taman haji   , kelantan   0124912484kailum@yahoo.com              1207052013kailum    kailum22  1312
+Eelin               2503199287,jalan ghany 42     , taman ghany  , perak      0124812481eelin@gmail.com               1212122015eelin     eelin31   2300
+Jimmy               2305199402,jalan station 21   , taman station, johor      0195843936jimmy@hotmail.com             1201012014jimmy     jimmy24   0858
+Ahbii               2609199409,jalan bagus 56     , taman bagus  , rawang     0164343532ahbii@gmail.com               1203042015ahbii     ahbi63    4435
+James               1108199421,jalan bola 34      , taman bola   , kl         0174643535james@hotmail.com             1104032014james     james35   5789
+Croix               0108199364,jalan cinta 32     , taman cinta  , penang     0192389238sam@gmail.com                 1206112014sam       sam34     3245
+Alex                2411199676,jalan tak 86       , taman tak    , kuantan    0184375438alex@gmail.com                1209042013alex      alex34    9331
+Yoona               2312199643,jalan sempat 54    , taman sempat , kl         0149584937yoona@hotmail.com             1204122015yoona     yoona43   9491
+Sunny               2409199354,jalan larang 21    , taman larang , johor      0139812498sunny@hotmail.com             1205112015sunny     sunny39   4281
+Tiffany             2403199542,jalan mesti 30     , taman mesti  , kl         0125892385tiffany@gmail.com             1213022015tiffany   tiffany48 6899
+Jacqli              2301199390,jalan dell 34      , taman dell   , kelantan   0175823578jacqli@yahoo.com              1208022014jacqli    jacqli12  3055
+Stark               2105199534,jalan asus 67      , taman asus   , penang     0149854395stark@hotmail.com             1107042014stark     stark12   4011
+Jane                1505199509,jalan lapar 60     , taman lapar  , kedah      0124871824jane@gmail.com                1224092015jane      jane21    2949
+Rinny               2407199033,jalan main 34      , taman main   , selangor   0135945834rinny@hotmail.com             1213022014rinny     rinny34   3905
+Phoenix             2406199258,jalan tidur 70     , taman tidur  , kl         0158463882phoenix@hotmail.com           1230112013phoenix   phoenix35 0460
 DarenTan            2405199495,jalan cheras 28    , taman cheras , kl         0158963598darentan@yahoo.com            1207092014darentan  darentan642239
-Kenny               2109199512,jalan kerana 20    , taman kerana , kedah      0114935439kenny@hotmail.com             1203012015kenny     kenny403707
-Queen               2102199195,jalan sibu 26      , taman sibu   , selangor   0129412819queen@hotmail.com			  1230032014queen     queen546430
-Orange			    2101199323,jalan hujan 13     , taman hujan  , kelantan   0124912484orange@yahoo.com              1231072014orange    orange224476
-Apple				2609199403,jalan hany 43      , taman hany   , perak      0124812481apple@gmail.com  			  1212122015apple     apple379870
+Kenny               2109199512,jalan kerana 20    , taman kerana , kedah      0114935439kenny@hotmail.com             1203012015kenny     kenny40   3707
+Queen               2102199195,jalan sibu 26      , taman sibu   , selangor   0129412819queen@hotmail.com             1230032014queen     queen54   6430
+Orange              2101199323,jalan hujan 13     , taman hujan  , kelantan   0124912484orange@yahoo.com              1231072014orange    orange22  4476
+Apple               2609199403,jalan hany 43      , taman hany   , perak      0124812481apple@gmail.com               1212122015apple     apple37   9870

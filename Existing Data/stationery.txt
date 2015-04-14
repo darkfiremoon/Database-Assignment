@@ -1,20 +1,20 @@
-Faber-Castell CX5 BLUE 0.5    ST0101.50 30S001
-G-Soft        GX7 BLUE 0.5    ST0101.50 30S002
-G-point       GX8 BLUE 0.5    ST0102.50 30S003
-2B-Pencil     PX1             ST0200.90 30S004
-Paper Karma   KX4             ST1105.50 30S005
-Stabilo		  SX0             ST0269.50 30S006
-Notebook      NX4             ST0308.50 30S007
-Folder        FX8             ST0408.50 30S008
-Calculator    CX1             ST0539.50 30S009
-Pencil Case   PX9             ST0610.50 30S010
-Paper Note    PX6             ST1121.50 30S011
-Artline       AX2             ST0107.50 30S012
-Pen Holder    PX2             ST0608.50 30S013
-Eraser        EX0             ST0700.50 30S014
-Ruler         RX3             ST0800.30 30S015
-Highlighter   HX7             ST0104.50 30S016
-Pencil        PX0             ST0200.90 30S017
-Sticky Note   SX6             ST1102.50 30S018
-File          FX5             ST0909.50 30S019
-Ink           IX9             ST1030.50 30S020
+Faber-Castell CX5 BLUE 0.5    ST0101.5030S001
+G-Soft        GX7 BLUE 0.5    ST0101.5030S002
+G-point       GX8 BLUE 0.5    ST0102.5030S003
+2B-Pencil     PX1             ST0200.9030S004
+Paper Karma   KX4             ST1105.5030S005
+Stabilo       SX0             ST0269.5030S006
+Notebook      NX4             ST0308.5030S007
+Folder        FX8             ST0408.5030S008
+Calculator    CX1             ST0539.5030S009
+Pencil Case   PX9             ST0610.5030S010
+Paper Note    PX6             ST1121.5030S011
+Artline       AX2             ST0107.5030S012
+Pen Holder    PX2             ST0608.5030S013
+Eraser        EX0             ST0700.5030S014
+Ruler         RX3             ST0800.3030S015
+Highlighter   HX7             ST0104.5030S016
+Pencil        PX0             ST0200.9030S017
+Sticky Note   SX6             ST1102.5030S018
+File          FX5             ST0909.5030S019
+Ink           IX9             ST1030.5030S020

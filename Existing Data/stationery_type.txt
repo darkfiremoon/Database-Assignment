@@ -1,11 +1,11 @@
 Ball Pen                      ST01
 Pencil                        ST02
 Notebook                      ST03
-Folder                   	  ST04
-Calculator              	  ST05
-Pencil Case           	      ST06
-Eraser  			    	  ST07
-Ruler 				    	  ST08
-File                   	      ST09
-Ink  				    	  ST10
+Folder                        ST04
+Calculator                    ST05
+Pencil Case                   ST06
+Eraser                        ST07
+Ruler                         ST08
+File                          ST09
+Ink                           ST10
 Paper                         ST11

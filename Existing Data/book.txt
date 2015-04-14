@@ -1,30 +1,30 @@
-Snow White and the HuntsMan                       A FairyTale Story                                 A001P001BT04     99B001        
-SpiderMan3                                        A Action and adventures                           A002P003BT06     99B002
-Avenger  									      A Action and adventures                           A003P005BT06     99B003
-Twilight										  A Romance  										A004P010BT02     99B004
-Cinderella                        				  A FairyTale Story                                 A005P002BT04     99B005
-Thor 											  A Action and adventures 						 	A006P001BT06     99B006		
-Need For Speed                                    A Action and adventures 							A007P010BT06     99B007	
-Fast And Furious 7								  A Action and adventures 							A008P003BT06     99B008
-Toy Story										  A Children's    									A009P008BT09     99B009
-Batman 											  A Action and adventures 							A010P001BT06     99B010
-Superman 										  A Action and adventures 							A011P008BT06     99B011
-Beauty and the beast							  A Children's  									A012P007BT09     99B012
-Ironman											  A Action and adventures							A013P001BT06     99B013
-50 shades of grey                                 A Romance                                         A014P009BT02     99B014
-Star wars                         				  A Science Fiction                                 A015P001BT01     99B015
-Dragon ball										  A Comic  	                                        A016P006BT05     99B016
-Naruto											  A Comic  										    A017P004BT05     99B017
-One Piece										  A Comic  	          								A018P001BT05     99B018
-FairyTale                                         A Comic  											A019P001BT05     99B019
-HarryPotter										  A Comic  											A020P006BT05     99B020
-Incidious										  A Horror 									        A021P001BT03     99B021
-Robotcop                                          A Action and adventures                           A022P009BT06     99B022
-Terminator 										  A Action and adventures   						A023P001BT06     99B023
-Transformer										  A Action and adventures   						A024P005BT06     99B024
-Digimon											  A Comic  	      									A025P001BT05     99B025
-Pokemon										  	  A Comic  											A026P001BT05     99B026
-Alice In Wonderland 							  A FairyTale Story 							    A027P002BT04     99B027
-Hulk											  A Action and adventures							A028P010BT06     99B028
-Kite runner 									  A Travel  										A029P009BT07     99B029
-Chasing rainbow 								  A Travel  										A030P001BT07	 99B030
+Snow White and the HuntsMan                       A FairyTale Story                                 A001P001BT0415.5099B001        
+SpiderMan3                                        A Action and adventures                           A002P003BT0615.5099B002
+Avenger                                           A Action and adventures                           A003P005BT0625.5099B003
+Twilight                                          A Romance                                         A004P010BT0215.5099B004
+Cinderella                                        A FairyTale Story                                 A005P002BT0415.5099B005
+Thor                                              A Action and adventures                           A006P001BT0615.5099B006		
+Need For Speed                                    A Action and adventures                           A007P010BT0615.5099B007	
+Fast And Furious 7                                A Action and adventures                           A008P003BT0645.5099B008
+Toy Story                                         A FairyTale Story                                 A009P008BT0915.5099B009
+Batman                                            A Action and adventures                           A010P001BT0615.5099B010
+Superman                                          A Action and adventures                           A011P008BT0655.5099B011
+Beauty and the beast                              A FairyTale Story                                 A012P007BT0915.5099B012
+Ironman                                           A Action and adventures                           A013P001BT0615.5099B013
+50 shades of grey                                 A Romance                                         A014P009BT0265.5099B014
+Star wars                                         A Science Fiction                                 A015P001BT0115.5099B015
+Dragon ball                                       A Comic                                           A016P006BT0515.5099B016
+Naruto                                            A Comic                                           A017P004BT0515.5099B017
+One Piece                                         A Comic                                           A018P001BT0515.5099B018
+FairyTail                                         A Comic                                           A019P001BT0515.5099B019
+HarryPotter                                       A Comic                                           A020P006BT0515.5099B020
+Incidious                                         A Horror                                          A021P001BT0315.5099B021
+Robotcop                                          A Action and adventures                           A022P009BT0615.5099B022
+Terminator                                        A Action and adventures                           A023P001BT0615.5099B023
+Transformer                                       A Action and adventures                           A024P005BT0615.5099B024
+Digimon                                           A Comic                                           A025P001BT0515.5099B025
+Pokemon                                           A Comic                                           A026P001BT0576.5099B026
+Alice In Wonderland                               A FairyTale Story                                 A027P002BT0415.5099B027
+Hulk                                              A Action and adventures                           A028P010BT0615.5099B028
+Kite runner                                       A Travel                                          A029P009BT0715.5099B029
+Chasing rainbow                                   A Travel                                          A030P001BT0715.5099B030
