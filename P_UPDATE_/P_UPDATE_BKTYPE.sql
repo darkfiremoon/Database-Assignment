@@ -5,8 +5,6 @@ create or replace PROCEDURE P_UPDATE_BKTYPE (
 )
 IS
 update_sql varchar2(225);
-CURSOR C_BKTYPE IS
-SELECT * FROM T_MT_BKTYPE;
 BEGIN
 
 update_sql :=  'UPDATE T_MT_BKTYPE SET ' || IN_TYPE  || 

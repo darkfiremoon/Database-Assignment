@@ -5,8 +5,6 @@ create or replace PROCEDURE P_UPDATE_AUTHOR (
 )
 IS
 update_sql varchar2(225);
-CURSOR C_AUTHOR IS
-SELECT * FROM T_MT_AUTHOR;
 BEGIN
 
 update_sql :=  'UPDATE T_MT_AUTHOR SET ' || IN_TYPE  || 

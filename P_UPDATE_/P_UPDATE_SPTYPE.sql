@@ -5,8 +5,6 @@ create or replace PROCEDURE P_UPDATE_SPTYPE (
 )
 IS
 update_sql varchar2(225);
-CURSOR C_SPTYPE IS
-SELECT * FROM T_MT_SPTYPE;
 BEGIN
 
 update_sql :=  'UPDATE T_MT_SPTYPE SET ' || IN_TYPE  || 

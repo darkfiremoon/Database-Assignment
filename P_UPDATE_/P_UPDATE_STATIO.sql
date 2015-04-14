@@ -5,13 +5,18 @@ create or replace PROCEDURE P_UPDATE_STATIO (
 )
 IS
 update_sql varchar2(225);
-CURSOR C_STATIO IS
-SELECT * FROM T_MT_STATIO;
+UPD_VALUE VARCHAR2(32);
 BEGIN
+
+IF UPPER(IN_TYPE) = 'TYPEID' THEN
+SELECT ST.ID INTO UPD_VALUE FROM T_MT_STTYPE ST WHERE ST.CD = IN_VALUE;
+ELSE
+UPD_VALUE := IN_VALUE;
+END IF;
 
 update_sql :=  'UPDATE T_MT_STATIO SET ' || IN_TYPE  || 
                     '= :1 WHERE CD = :2' ;
 
-execute immediate update_sql using IN_VALUE,IN_CD;
+execute immediate update_sql using UPD_VALUE,IN_CD;
 
 END P_UPDATE_STATIO;

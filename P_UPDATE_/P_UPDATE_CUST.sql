@@ -5,8 +5,6 @@ create or replace PROCEDURE P_UPDATE_CUST (
 )
 IS
 update_sql varchar2(225);
-CURSOR C_CUST IS
-SELECT * FROM T_MT_CUSTOMER;
 BEGIN
 
 update_sql :=  'UPDATE T_MT_CUSTOMER SET ' || IN_TYPE  || 

@@ -5,8 +5,6 @@ create or replace PROCEDURE P_UPDATE_DISCOUNT (
 )
 IS
 update_sql varchar2(225);
-CURSOR C_DISCOUNT IS
-SELECT * FROM T_MT_DISCOUNT;
 BEGIN
 
 update_sql :=  'UPDATE T_MT_DISCOUNT SET ' || IN_TYPE  || 

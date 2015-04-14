@@ -5,8 +5,6 @@ create or replace PROCEDURE P_UPDATE_ROLE (
 )
 IS
 update_sql varchar2(225);
-CURSOR C_ROLE IS
-SELECT * FROM T_MT_ROLE;
 BEGIN
 
 update_sql :=  'UPDATE T_MT_ROLE SET ' || IN_TYPE  || 

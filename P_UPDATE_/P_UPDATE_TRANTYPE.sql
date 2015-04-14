@@ -5,8 +5,6 @@ create or replace PROCEDURE P_UPDATE_TRANTYPE (
 )
 IS
 update_sql varchar2(225);
-CURSOR C_TRANTYPE IS
-SELECT * FROM T_MT_TRANTYPE;
 BEGIN
 
 update_sql :=  'UPDATE T_MT_TRANTYPE SET ' || IN_TYPE  || 
