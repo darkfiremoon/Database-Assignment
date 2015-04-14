@@ -1,10 +1,10 @@
-Teh Kian Chong                                    1129,Weslake                                                                    01634655  tehkianchong@gmail.com        tehkianchong.com              P001     
-Sean                                              2313,Weslake                                                                    01872345  sean@hotmail.com      		  sean.com						P002
-Chee Wei 										  2222,Weslake 																	  01942813  cheewei@gmail.com			  cheewei.com					P003
-Gary 											  2129,Cambridge 					  											  01237812  gary@hotmail.com              gary.com                 		P004
-Liang 											  1228,Wstlake 																	  01248758  liang@hotmail.com  			  liang.com     	            P005
-Joe												  1126,Weslake 																	  01291789  joe@hotmail.com				  joe.com   					P006
-Willam 											  1234,Eastlake 																  01245966  willam@hotmail.com			  willam.com    				P007
-Tracy											  2345,Eastlake																	  01623944  tracy@gmail.com	      		  tracy.com						P008
-Caaey											  2498,Harvard																	  01985732  casey@hotmail.com			  casey.com						P009
-Vanessa											  1294,Weslake																	  01875811  vanessa@gmail.com			  vanessa.com	  				P010
+Teh Kian Chong                                    1129,Weslake                                                                    0163465532tehkianchong@gmail.com        tehkianchong.com              P001     
+Sean                                              2313,Weslake                                                                    0187234523sean@hotmail.com      		  sean.com						P002
+Chee Wei 										  2222,Weslake 																	  0194281323cheewei@gmail.com			  cheewei.com					P003
+Gary 											  2129,Cambridge 					  											  0123781242gary@hotmail.com              gary.com                 		P004
+Liang 											  1228,Wstlake 																	  0124875856liang@hotmail.com  			  liang.com     	            P005
+Joe												  1126,Weslake 																	  0129178965joe@hotmail.com				  joe.com   					P006
+Willam 											  1234,Eastlake 																  0124596678willam@hotmail.com			  willam.com    				P007
+Tracy											  2345,Eastlake																	  0162394498tracy@gmail.com	      		  tracy.com						P008
+Caaey											  2498,Harvard																	  0198573234casey@hotmail.com			  casey.com						P009
+Vanessa											  1294,Weslake																	  0187581190vanessa@gmail.com			  vanessa.com	  				P010

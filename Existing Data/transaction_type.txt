@@ -2,7 +2,7 @@ Credit Card                   TT01
 Cash 						  TT02
 Cheque	                      TT03
 Voucher                       TT04
-Money Transfer                TT05
+Mobile Transfer               TT05
 Bank Transfer                 TT06
 Invoice 				      TT07
 Prepaid Card                  TT08

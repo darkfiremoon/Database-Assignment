@@ -1,10 +1,10 @@
-Teh Kian Chong      2802199435,jalan hulubalang 28, taman sentosa, klang      0162031910darkfiremoon28@gmail.com        1000015darkfire  darkfire28Manager   stkc  
-Maggie              1205199235,jalan hubung 23    , taman hubung , puchong    0169248452maggie@gmail.com                1000016maggie    maggie19Part-Timer  stkc
-Jelly               1102199502,jalan kucing 20    , taman kucing , kuching    0129848763jelly@hotmail.com               1000017jelly     jelly23Supervisor   stkc
-Alan                2009199401,jalan api 11       , taman api    , selangor   0187843911alan@hotmail.com                1000018alan      alan33Part-Timer    stkc
-Lily				0403199595,jalan air 44       , taman air    , kajang     0129389716lily@gmail.com                  1000019lily      lily12Cust Service  stkc
-Genie               0104199243,jalan mewar 14     , taman mewar  , tapah      0198487861genie@hotmail.com               1000020genie     genie15Cust Service stkc
-Francis  			0169123812,jalan hitam 59     , taman hitam  , kl         0122847835francis@gmail.com               1000021francis   francis09Manager    stkc
-Rainie              0128748762,jalan merah 77     , taman merah  , penang     0189247911rainie@hotmail.com              1000022rainie    rainie84Part-Timer  stkc
-Larry               0162942949,jalan biru 24      , taman biru   , kl         0184728371larry@hotmail.com               1000023larry     larry29Part-Timer   stkc
-Belle               0148187482,jalan hijau 29     , taman hijau  , subang     0148735823belle@gmail.com                 1000024belle     belle12Part-Timer   stkc
+Teh Kian Chong      2802199435,jalan hulubalang 28, taman sentosa, klang      0162031910darkfiremoon28@gmail.com        1200015darkfire  darkfire28Manager   stkc  
+Maggie              1205199235,jalan hubung 23    , taman hubung , puchong    0169248452maggie@gmail.com                0900014maggie    maggie19Part-Timer  maggie
+Jelly               1102199502,jalan kucing 20    , taman kucing , kuching    0129848763jelly@hotmail.com               1500015jelly     jelly23Supervisor   jelly
+Alan                2009199401,jalan api 11       , taman api    , selangor   0187843911alan@hotmail.com                0900015alan      alan33Part-Timer    alan
+Lily				0403199595,jalan air 44       , taman air    , kajang     0129389716lily@gmail.com                  1000015lily      lily12Cust Service  lily
+Genie               0104199243,jalan mewar 14     , taman mewar  , tapah      0198487861genie@hotmail.com               1000016genie     genie15Cust Service genie
+Francis  			0169123812,jalan hitam 59     , taman hitam  , kl         0122847835francis@gmail.com               1200015francis   francis09Manager    francis
+Rainie              0128748762,jalan merah 77     , taman merah  , penang     0189247911rainie@hotmail.com              0900015rainie    rainie84Part-Timer  rainie
+Larry               0162942949,jalan biru 24      , taman biru   , kl         0184728371larry@hotmail.com               0900015larry     larry29Part-Timer   larry
+Belle               0148187482,jalan hijau 29     , taman hijau  , subang     0148735823belle@gmail.com                 0900015belle     belle12Part-Timer   belle

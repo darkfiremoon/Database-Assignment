@@ -1,10 +1,11 @@
-0.5 Ball Pen                  ST01
-2.0 Ball Pencil               ST04
-1.1 Ball Notebook             ST07
-1.5 Ball Folder               ST08
-9.9 Ball Calculator           ST09
-7.7 Ball Pencil Case          ST10
-1.2 Ball Eraser  			  ST14
-0.6 Ball Ruler 				  ST15
-2.0 Ball File                 ST19
-7.7 Ball Ink  				  ST20
+Ball Pen                      ST01
+Pencil                        ST02
+Notebook                      ST03
+Folder                   	  ST04
+Calculator              	  ST05
+Pencil Case           	      ST06
+Eraser  			    	  ST07
+Ruler 				    	  ST08
+File                   	      ST09
+Ink  				    	  ST10
+Paper                         ST11
