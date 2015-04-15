@@ -90,3 +90,28 @@ Field Definitions for table T_EXT_SUPPLIER
     CODE                            CHAR (4)
       Record position (115, 118)
       Trim whitespace from right
+
+
+ LOG file opened at 04/15/15 15:04:05
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_SUPPLIER
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NAME                            CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    ADDRESS                         CHAR (80)
+      Record position (31, 110)
+      Trim whitespace from right
+    SUPPTYPE                        CHAR (4)
+      Record position (111, 114)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (115, 118)
+      Trim whitespace from right

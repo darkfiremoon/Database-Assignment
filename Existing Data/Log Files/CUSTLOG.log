@@ -2314,3 +2314,55 @@ Date Cache Statistics for table T_EXT_CUST
   Hits    :         0
   Misses  :         0
 
+
+
+ LOG file opened at 04/15/15 15:04:08
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_CUST
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NAME                            CHAR (20)
+      Record position (1, 20)
+      Trim whitespace from right
+    DOB                             CHAR (8)
+      Date datatype DATE, date mask DDMMYYYY
+      Record position (21, 28)
+      Trim whitespace from right
+    ADDRESS                         CHAR (50)
+      Record position (29, 78)
+      Trim whitespace from right
+    PHONE                           CHAR (10)
+      Record position (79, 88)
+      Trim whitespace from right
+    EMAIL                           CHAR (30)
+      Record position (89, 118)
+      Trim whitespace from right
+    MEMBERSHIP_PERIOD               CHAR (2)
+      Record position (119, 120)
+      Trim whitespace from right
+    JOIN_DATE                       CHAR (8)
+      Date datatype DATE, date mask DDMMYYYY
+      Record position (121, 128)
+      Trim whitespace from right
+    USERNAME                        CHAR (10)
+      Record position (129, 138)
+      Trim whitespace from right
+    CPASSWORD                       CHAR (10)
+      Record position (139, 148)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (149, 152)
+      Trim whitespace from right
+
+Date Cache Statistics for table T_EXT_CUST
+  Max Size:      1000
+  Entries :        57
+  Hits    :         3
+  Misses  :         0
+

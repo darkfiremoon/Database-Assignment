@@ -128,3 +128,31 @@ Field Definitions for table T_EXT_AUTHOR
     CODE                            CHAR (4)
       Record position (171, 174)
       Trim whitespace from right
+
+
+ LOG file opened at 04/15/15 15:04:06
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_AUTHOR
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NAME                            CHAR (50)
+      Record position (1, 50)
+      Trim whitespace from right
+    ADDRESS                         CHAR (80)
+      Record position (51, 130)
+      Trim whitespace from right
+    PHONE                           CHAR (10)
+      Record position (131, 140)
+      Trim whitespace from right
+    EMAIL                           CHAR (30)
+      Record position (141, 170)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (171, 174)
+      Trim whitespace from right

@@ -1237,3 +1237,40 @@ Field Definitions for table T_EXT_BOOK
     CODE                            CHAR (4)
       Record position (120, 123)
       Trim whitespace from right
+
+
+ LOG file opened at 04/15/15 15:04:07
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_BOOK
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    TITLE                           CHAR (50)
+      Record position (1, 50)
+      Trim whitespace from right
+    DESCRIPTION                     CHAR (50)
+      Record position (51, 100)
+      Trim whitespace from right
+    AUTHORCD                        CHAR (4)
+      Record position (101, 104)
+      Trim whitespace from right
+    PUBLISHERCD                     CHAR (4)
+      Record position (105, 108)
+      Trim whitespace from right
+    BKTYPECD                        CHAR (4)
+      Record position (109, 112)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (113, 117)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (118, 119)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (120, 123)
+      Trim whitespace from right

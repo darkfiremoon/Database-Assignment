@@ -102,3 +102,31 @@ Field Definitions for table T_EXT_STATIO
     CODE                            CHAR (4)
       Record position (42, 45)
       Trim whitespace from right
+
+
+ LOG file opened at 04/15/15 15:04:08
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table T_EXT_STATIO
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    NAME                            CHAR (30)
+      Record position (1, 30)
+      Trim whitespace from right
+    TYPECODE                        CHAR (4)
+      Record position (31, 34)
+      Trim whitespace from right
+    PRICE                           CHAR (5)
+      Record position (35, 39)
+      Trim whitespace from right
+    STOCK                           CHAR (2)
+      Record position (40, 41)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (42, 45)
+      Trim whitespace from right
