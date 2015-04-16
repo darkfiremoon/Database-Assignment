@@ -1,12 +1,13 @@
 --zbbms@20140402 create directory -START
-create or replace directory ext_tab_dir as 'C:\Users\Simon\Desktop\Database-Assignment\Existing Data';
-create or replace directory ext_log_dir as 'C:\Users\Simon\Desktop\Database-Assignment\Existing Data\Log Files';
+create or replace directory ext_tab_dir as 'C:\Users\LWL\Desktop\Database\Database Assignment\Database-Assignment - Copy\Existing Data';
+create or replace directory ext_log_dir as 'C:\Users\LWL\Desktop\Database\Database Assignment\Database-Assignment - Copy\Existing Data\Log Files';
 --zbbms@20140402 create directory -END
 
 
 --zbbms@20140402 drop table - START
 DROP TABLE T_EXT_CUST;
 DROP TABLE T_EXT_EMP;
+DROP TABLE T_EXT_ITEM;
 DROP TABLE T_EXT_BOOK;
 DROP TABLE T_EXT_DISC;
 DROP TABLE T_EXT_ROLE;
@@ -56,6 +57,27 @@ ORGANIZATION EXTERNAL
  LOCATION('cust.txt')
 );
 --zbbms@20150402 external table for customer - END
+
+--zbbms@20150402 external table for item - START
+CREATE TABLE T_EXT_ITEM (
+ITEM_CODE VARCHAR(4),
+CODE VARCHAR2(4) 
+)
+ORGANIZATION EXTERNAL 
+(TYPE ORACLE_LOADER
+ DEFAULT DIRECTORY EXT_TAB_DIR
+	ACCESS PARAMETERS(
+	RECORDS DELIMITED BY NEWLINE
+	BADFILE EXT_LOG_DIR:'ITEMBAD.bad'
+	LOGFILE EXT_LOG_DIR:'ITEMLOG.log'
+		FIELDS RTRIM (
+		ITEM_CODE(1:4) CHAR (4),
+		CODE (6:9) CHAR(4)
+		)
+	)
+ LOCATION('item.txt')
+);
+--zbbms@20150402 external table for item - END
 
 --zbbms@20150402 external table for employee - START
 CREATE TABLE T_EXT_EMP (

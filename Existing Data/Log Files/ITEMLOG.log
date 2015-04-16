@@ -1,0 +1,54 @@
+
+
+ LOG file opened at 04/16/15 08:43:57
+
+Field Definitions for table T_EXT_ITEM
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ITEM_CODE                       CHAR (4)
+      Record position (1, 4)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (6, 9)
+      Trim whitespace from right
+
+
+ LOG file opened at 04/16/15 08:43:57
+
+Field Definitions for table T_EXT_ITEM
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ITEM_CODE                       CHAR (4)
+      Record position (1, 4)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (6, 9)
+      Trim whitespace from right
+
+  Column Transformations
+    ROWID                         
+
+
+ LOG file opened at 04/16/15 08:44:13
+
+Field Definitions for table T_EXT_ITEM
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    ITEM_CODE                       CHAR (4)
+      Record position (1, 4)
+      Trim whitespace from right
+    CODE                            CHAR (4)
+      Record position (6, 9)
+      Trim whitespace from right
